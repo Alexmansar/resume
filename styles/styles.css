@@ -16,10 +16,7 @@ margin: 0 auto;
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
     padding: 105px 90px;
 }
- 
- .project_title{
-   
-}
+
 /*about styles*/
 .about{
     margin-bottom: 40px;
@@ -101,14 +98,7 @@ font-style: normal;
     color: #000000;
 }
 
-
-
 /*work st*/
-.work{
-   
-
-}
-
 .position{
     font-style: normal;
         font-weight: 700;
